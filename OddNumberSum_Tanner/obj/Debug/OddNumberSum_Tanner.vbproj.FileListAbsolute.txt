@@ -1,0 +1,10 @@
+H:\GitHub\OddNumberSum_Tanner\OddNumberSum_Tanner\bin\Debug\OddNumberSum_Tanner.exe.config
+H:\GitHub\OddNumberSum_Tanner\OddNumberSum_Tanner\bin\Debug\OddNumberSum_Tanner.exe
+H:\GitHub\OddNumberSum_Tanner\OddNumberSum_Tanner\bin\Debug\OddNumberSum_Tanner.pdb
+H:\GitHub\OddNumberSum_Tanner\OddNumberSum_Tanner\bin\Debug\OddNumberSum_Tanner.xml
+H:\GitHub\OddNumberSum_Tanner\OddNumberSum_Tanner\obj\Debug\OddNumberSum_Tanner.Form1.resources
+H:\GitHub\OddNumberSum_Tanner\OddNumberSum_Tanner\obj\Debug\OddNumberSum_Tanner.Resources.resources
+H:\GitHub\OddNumberSum_Tanner\OddNumberSum_Tanner\obj\Debug\OddNumberSum_Tanner.vbproj.GenerateResource.Cache
+H:\GitHub\OddNumberSum_Tanner\OddNumberSum_Tanner\obj\Debug\OddNumberSum_Tanner.exe
+H:\GitHub\OddNumberSum_Tanner\OddNumberSum_Tanner\obj\Debug\OddNumberSum_Tanner.xml
+H:\GitHub\OddNumberSum_Tanner\OddNumberSum_Tanner\obj\Debug\OddNumberSum_Tanner.pdb
